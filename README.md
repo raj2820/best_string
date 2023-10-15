@@ -1,4 +1,4 @@
-#Installing it in your project 
+# Installing it in your project 
 
 ` npm i @raj2820/best_string `
 
