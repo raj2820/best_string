@@ -1,5 +1,8 @@
-# best_string
+#Installing it in your project 
 
+` npm i @raj2820/best_string `
+
+# best_string
 If you wish contributing to this project follow the steps below:-
 
 - Clone this repo.
