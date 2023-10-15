@@ -62,6 +62,26 @@ export default (function () {
         return final
       }
 
+      beststring.removeWhiteSpaces = function (givenString) {
+        let result = "";
+        let prev = false;
+        for(let i = 0; i < givenString.length; i++){
+          let char = givenString[i]
+          if(char === ' '){
+            if(!prev){
+              result = result + "";
+              prev = true;  
+            }else{
+              prev = false
+            }
+          }else{
+            result = result + char
+          }
+        }
+        console.log(result)
+        return result
+      }
+
       root._ = beststring;
     
   })()
