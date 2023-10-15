@@ -2,6 +2,10 @@
 
 ` npm i @raj2820/best_string `
 
+Using it in your js file :-
+
+import "@raj2820/best_string"
+
 # best_string
 If you wish contributing to this project follow the steps below:-
 
