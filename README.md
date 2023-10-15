@@ -4,7 +4,9 @@
 
 Using it in your js file :-
 
-import "@raj2820/best_string"
+` import "@raj2820/best_string"
+
+_.<method_name> `
 
 # best_string
 If you wish contributing to this project follow the steps below:-
