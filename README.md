@@ -14,7 +14,7 @@ _.<method_name>
 This is a library containing functions for manipulating strings. It includes functions for reversing strings, converting strings to uppercase or lowercase, and removing spaces from strings.
 
 
-[NPM](https://i.imgur.com/wMc2cXH.png)
+![NPM](https://i.imgur.com/wMc2cXH.png)
 
 ## Contributing
 
